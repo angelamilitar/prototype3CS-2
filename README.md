@@ -1,4 +1,4 @@
-# prototype3CS-2
+# Prototype3CS-2
 
 # Prototype Design Pattern - Animal Registry
 
@@ -27,8 +27,6 @@ prototype3CS-2/
 | `Horse` | Implements Animal, has `color` field |
 | `AnimalRegistry` | Stores prototypes and returns clones |
 | `TestAnimal` | Client that uses the registry |
-
-## How to Run
 
 ### Requirements
 - Java 17 or higher
